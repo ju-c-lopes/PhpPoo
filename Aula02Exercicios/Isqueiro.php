@@ -14,7 +14,7 @@
 class Isqueiro {
     var $cor;
     var $carga;
-    var $riscador = __DIR__;
+    var $riscador;
     var $marca;
     
     function Acender(){
