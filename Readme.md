@@ -10,7 +10,8 @@
 AULAS:
 <ul type="circle">
 	<li>Criando classes e objetos</li>
-	<li>Visibilidade de Atributos e métodos</li>	
+	<li>Visibilidade de Atributos e métodos</li>
+	<li>Métodos acessores, modificadores e construtores</li>
 </ul><br/><br/>
 
 
