@@ -12,6 +12,7 @@ AULAS:
 	<li>Criando classes e objetos</li>
 	<li>Visibilidade de Atributos e métodos</li>
 	<li>Métodos acessores, modificadores e construtores</li>
+	<li>Exercício prático</li>
 </ul><br/><br/>
 
 
