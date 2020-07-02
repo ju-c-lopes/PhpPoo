@@ -13,6 +13,7 @@ AULAS:
 	<li>Visibilidade de Atributos e métodos</li>
 	<li>Métodos acessores, modificadores e construtores</li>
 	<li>Exercício prático</li>
+	<li>Encapsulamento</li>
 </ul><br/><br/>
 
 
