@@ -18,5 +18,5 @@ AULAS:
 
 
 
-<h4>&reg; 06/2020</h4>
+<h4>&reg; 06/2020 -- 07/2020</h4>
 <a href="https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x">Curso PHP POO - Curso em Vídeo</a>
