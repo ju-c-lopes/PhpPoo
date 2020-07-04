@@ -14,6 +14,7 @@ AULAS:
 	<li>Métodos acessores, modificadores e construtores</li>
 	<li>Exercício prático</li>
 	<li>Encapsulamento</li>
+	<li>Relacionamento entre classes</li>
 </ul><br/><br/>
 
 
