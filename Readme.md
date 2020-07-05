@@ -15,6 +15,7 @@ AULAS:
 	<li>Exercício prático</li>
 	<li>Encapsulamento</li>
 	<li>Relacionamento entre classes</li>
+	<li>Exercícios</li>
 </ul><br/>
 <br/>
 

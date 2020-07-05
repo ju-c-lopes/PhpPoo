@@ -1,0 +1,5 @@
+meses
+
+31 dias => janeiro, março, maio, julho, agosto, outubro, dezembro
+30 dias => abril, junho, setembro, novembro
+28 dias => fevereiro
