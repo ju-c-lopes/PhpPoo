@@ -16,7 +16,7 @@ AULAS:
 	<li>Encapsulamento</li>
 	<li>Relacionamento entre classes</li>
 	<li>Exercícios ***</li>   
-</ul><p>*** => "uma das aulas mais demoradas que tive, mas aprendi demais, apesar de ter momentos onde queria chutar tudo kkkk"</p><br/>
+</ul><p><font size="8">*** => "uma das aulas mais demoradas que tive, mas aprendi demais, apesar de ter momentos onde queria chutar tudo kkkk"</font></p><br/>
 <br/>
 
 
