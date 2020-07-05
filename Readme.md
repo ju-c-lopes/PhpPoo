@@ -15,8 +15,8 @@ AULAS:
 	<li>Exercício prático</li>
 	<li>Encapsulamento</li>
 	<li>Relacionamento entre classes</li>
-	<li>Exercícios</li>
-</ul><br/>
+	<li>Exercícios ***</li>   
+</ul><p>*** => "uma das aulas mais demoradas que tive, mas aprendi demais, apesar de ter momentos onde queria chutar tudo kkkk"</p><br/>
 <br/>
 
 
