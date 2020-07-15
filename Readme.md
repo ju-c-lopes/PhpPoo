@@ -16,6 +16,7 @@ AULAS:
 	<li>Encapsulamento</li>
 	<li>Relacionamento entre classes</li>
 	<li>Exercícios</li>
+	<li>Herança</li>
 </ul><br/>
 <br/>
 
