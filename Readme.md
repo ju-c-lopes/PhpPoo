@@ -18,9 +18,11 @@ AULAS:
 	<li>Exercícios</li>
 	<li>Herança</li>
 	<li>Polimorfismo</li>
+	<li>Exercício Final</li>
 </ul><br/>
 
 <br/>
+<p><strong>CURSO FINALIZADO!!!</strong></p>
 
 
 
